@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/mySource">
+        <file alias="panel">icon/panel.svg</file>
+        <file alias="ZoomPlus">icon/ZoomPlus.svg</file>
+        <file alias="open">icon/open.png</file>
+    </qresource>
+</RCC>
